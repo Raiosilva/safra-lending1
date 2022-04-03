@@ -29,7 +29,7 @@ Ser a mais nova funcionalidade no App Safra Cartões e Investimentos, que dispon
 <img src ="https://img.shields.io/badge/-Insomia-yellow">&nbsp;
 <img src="https://img.shields.io/badge/-HTML-pink">&nbsp;
 <img src="https://img.shields.io/badge/-CSS-orange">&nbsp;
-<<img src="https://img.shields.io/badge/-RxJS-brown">&nbsp;
+<img src="https://img.shields.io/badge/-RxJS-brown">&nbsp;
 
 ----
 ## Instruções para Uso

@@ -56,4 +56,3 @@ Ser a mais nova funcionalidade no App Safra Cartões e Investimentos, que dispon
 
          cd [HACKATHON-SAFRA-TIME-12]
          ng serve
----

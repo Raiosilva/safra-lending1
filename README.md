@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://user-images.githubusercontent.com/69392233/161446495-e38b1712-4885-44d1-8529-f5aea1a56461.png" width="500px"/>
+</div>
+
 # Hackathon - Safra - Time 12
 
 Seja bem - vindo ao Safra Lending! 
@@ -15,9 +19,11 @@ Ser a mais nova funcionalidade no App Safra Cartões e Investimentos, que dispon
 
  ## Status 
 
- Fase 1 - Criação da tela de login;
- 
- Criação das telas de solicitação de crédito e autenticação da operação.
+Fase 1:
+
+- [x] Criação da tela de login
+- [x] Criação de tela de solicitação de crédito
+- [x] Tela de autenticação da operação.
 
  Fase 2 - Em construção. 
 

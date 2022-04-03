@@ -25,10 +25,11 @@ Ser a mais nova funcionalidade no App Safra Cartões e Investimentos, que dispon
 
 ## Tecnologias / Ferramentas
 <img src="https://img.shields.io/badge/-Angular CLI Version 12.1.0-blue">&nbsp;
-<img src="https://img.shields.io/badge/-Node.js-brightgreen%22%3E">&nbsp;
-<img src ="https://img.shields.io/badge/-Insomia-yellow%22%3E">&nbsp;
-<img src="https://img.shields.io/badge/-HTML-pink%22%3E">&nbsp;
-<img src="https://img.shields.io/badge/-CSS-orange%22%3E">&nbsp;
+<img src="https://img.shields.io/badge/-Node.js-brightgreen">&nbsp;
+<img src ="https://img.shields.io/badge/-Insomia-yellow">&nbsp;
+<img src="https://img.shields.io/badge/-HTML-pink">&nbsp;
+<img src="https://img.shields.io/badge/-CSS-orange">&nbsp;
+<img src="https://rxjs.dev/guide/observable-red">&nbsp;
 
 ----
 ## Instruções para Uso

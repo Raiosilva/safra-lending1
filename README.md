@@ -24,12 +24,11 @@ Ser a mais nova funcionalidade no App Safra Cartões e Investimentos, que dispon
  No aguardo das fases 2-3-4 do Open Banking, as quais requerem o consentimento dos clientes, para que possamos fazer as devidas integrações.
 
 ## Tecnologias / Ferramentas
- <img src="https://img.shields.io/badge/-Angular CLI Version 12.1.0-blue">&nbsp;
+<img src="https://img.shields.io/badge/-Angular CLI Version 12.1.0-blue">&nbsp;
 <img src="https://img.shields.io/badge/-Node.js-brightgreen%22%3E">&nbsp;
 <img src ="https://img.shields.io/badge/-Insomia-yellow%22%3E">&nbsp;
 <img src="https://img.shields.io/badge/-HTML-pink%22%3E">&nbsp;
 <img src="https://img.shields.io/badge/-CSS-orange%22%3E">&nbsp;
-<img src="https://img.shields.io/badge/-FIREBASE-beige%22%3E">&nbsp;
 
 ----
 ## Instruções para Uso
@@ -43,10 +42,10 @@ Ser a mais nova funcionalidade no App Safra Cartões e Investimentos, que dispon
 
   * Criar o projeto de trabalho
 
-         ng new [HACKATHON-SAFRA-TIME-12]
+         ng new [safra-lending]
 
   * Rodar a aplicação
 
-         cd [HACKATHON-SAFRA-TIME-12]
+         cd [safra-lending]
          ng serve
 ----
